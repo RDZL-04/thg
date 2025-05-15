@@ -1,0 +1,2795 @@
+{
+    "hotelCode": 71125,
+    "currencyCode": "SGD",
+    "languageCode": "EN_US",
+    "hasMandatoryServices": false,
+    "roomStays": [
+        {
+            "timeSpan": {
+                "start": "2021-02-20",
+                "end": "2021-02-23",
+                "duration": 3
+            },
+            "roomTypes": [
+                {
+                    "roomTypeCode": "483614",
+                    "roomTypeName": "Premier Room",
+                    "description": "A 40sqm modern room with luxury touch in every corner. Our Premier Room offers the most exclusive room and bathroom design with separated standing high pressure rain shower cabin and bath tub. This room also equipped with a 46’ LED interactive high definition television with more than 60 channels, I-Home docking station, electric power curtain, and to ensure your comfort, we also provide exclusively customized luxury linen with Egyptian cotton bed sheet, duvet, pillows, all stuffed with down feathers which were selected only from the gooses’ neck to get you through the night. • Aromatherapy Associates London luxurious amenities • Exclusively designed bedding with 100% goose down pillows and pillow menu • Exclusively customized luxury linen with 320 thread-count Egyptian cotton • Daily in-room fruit amenity • Personalized in-room entertainment program with more than 60 television channels • Electric power curtain • I-Home docking station • Electronic proximity key access system • Room temperature and humidity control • Mood lighting controls • Luxurious marble bathroom with separate bathtub and high pressure rain shower • 24 hours on-call STAR service • Laundry and dry cleaning service • 24 hours The Fitness Centre access • Express check-out service • 40 sqm",
+                    "sortOrder": 1,
+                    "averageRates": [
+                        {
+                            "roomTypeCode": "483614",
+                            "ratePlanCode": "3993426",
+                            "ratePlanType": "Regular",
+                            "rate": 100.00333333333333,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG02",
+                            "pmsRateExternalCode": "PMSTHG02",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483614",
+                            "ratePlanCode": "3993425",
+                            "ratePlanType": "Regular",
+                            "rate": 90.62666666666667,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THGD01",
+                            "pmsRateExternalCode": "PMS-THGD01",
+                            "ratePlanCategory": "Discount",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483614",
+                            "ratePlanCode": "3993427",
+                            "ratePlanType": "Regular",
+                            "rate": 109.37666666666667,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG03",
+                            "pmsRateExternalCode": "PMSTHG03",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483614",
+                            "ratePlanCode": "3993428",
+                            "ratePlanType": "Regular",
+                            "rate": 100.00333333333333,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG04",
+                            "pmsRateExternalCode": "PMSTHG04",
+                            "ratePlanCategory": "Discount",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        }
+                    ],
+                    "averageMemberRates": [],
+                    "roomFeatures": [
+                        {
+                            "amenityName": "People",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/occupant.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 4,
+                            "type": "Occupancy"
+                        },
+                        {
+                            "amenityName": "Double Bed",
+                            "image": {
+                                "type": "image",
+                                "source": "/assets/hotel/default/media/iconography/icon/queen_bed.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 2,
+                            "type": "Beds"
+                        },
+                        {
+                            "amenityName": "Sq ft / 4 Sq m",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/measuring-square.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 40,
+                            "type": "Size"
+                        }
+                    ],
+                    "amenities": [
+                        {
+                            "amenityName": "Air Conditioned",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/heater_and_air_conditioner.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Alarm Clock",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/alarm_clock.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Bathroom Telephone",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/telephone.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Bathtub",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/shower_in_bath.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "City View",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/mountain_view.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Coffeemaker",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/coffee_pot.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Connecting Rooms",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/adjoining_or_connecting_rooms.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Cordless Telephone",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/telephone.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Free Newspaper",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/newspaper.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Hairdryer In Room",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/hair_styling_tools.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Microwave",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/microwave.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Personal Refrigerator",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/refrigerator.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Shower",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/shower_special.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Smoke Detectors",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/smoke_detector.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Telephone",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/telephone.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "TV",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/widescreen_tv_or_computer.svg",
+                                "sortOrder": 0
+                            }
+                        }
+                    ],
+                    "mainImage": {
+                        "type": "main-image",
+                        "source": "/assets/hotel/71125/media/room/main-image/premier_twin_room_enhanced_enhanced.png",
+                        "sortOrder": 0
+                    },
+                    "media": [
+                        {
+                            "type": "detail-image",
+                            "source": "/assets/hotel/71125/media/room/detail-image/detail-premier_twin_room_enhanced_enhanced.png",
+                            "sortOrder": 0
+                        },
+                        {
+                            "type": "detail-image",
+                            "source": "/assets/hotel/71125/media/room/detail-image/index2_enhanced.jpg",
+                            "sortOrder": 1
+                        },
+                        {
+                            "type": "detail-image",
+                            "source": "/assets/hotel/71125/media/room/detail-image/premier_and_premier_club_-_bathroom_-_2_enhanced_enhanced.jpg",
+                            "sortOrder": 2
+                        },
+                        {
+                            "type": "detail-image",
+                            "source": "/assets/hotel/71125/media/room/detail-image/premier_and_premier_club_-_bathroom_-_1_enhanced_enhanced.jpg",
+                            "sortOrder": 3
+                        },
+                        {
+                            "type": "detail-image",
+                            "source": "/assets/hotel/71125/media/room/detail-image/aal-2_enhanced_enhanced.jpg",
+                            "sortOrder": 4
+                        }
+                    ],
+                    "roomUpgradeOptions": [],
+                    "quantityRemaining": "9",
+                    "nightlyRates": [
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        },
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        },
+                        {
+                            "amtTotal": 93.75,
+                            "amtBeforeTax": 93.75,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 93.75
+                        },
+                        {
+                            "amtTotal": 93.75,
+                            "amtBeforeTax": 93.75,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 93.75
+                        },
+                        {
+                            "amtTotal": 93.75,
+                            "amtBeforeTax": 93.75,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 93.75
+                        },
+                        {
+                            "amtTotal": 84.38,
+                            "amtBeforeTax": 84.38,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 84.38
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        },
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        },
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        },
+                        {
+                            "amtTotal": 93.75,
+                            "amtBeforeTax": 93.75,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 93.75
+                        }
+                    ],
+                    "displayUrgencyMessage": false,
+                    "roomExternalCode": "THGPR01",
+                    "pmsRoomExternalCode": "THGPR01001",
+                    "available": true
+                },
+                {
+                    "roomTypeCode": "483616",
+                    "roomTypeName": "Club Premier Room",
+                    "description": "Room Inclusive breakfast for 2 adults and 2 children below 6 years old Premier Club Room has the same elegance features of the Premier Room and it is allowing you to enjoy our Private Reception service. This modern and luxury room will also give you the exclusive benefit by having the access to The Club Lounge, offering plenty of benefits and personalized service to our honourable guests. Enjoy a private breakfast experience with fascinating view from the highest floor of The Trans Luxury Hotel. Also, you can enjoy the exclusive private meeting rooms and even a personalized Butler service available upon request. All these facilities and service to ensure you will have the most memorable experience. Exclusive access to The Club Lounge Private Reception Acqua di Parma luxury amenities Exclusively designed pillows and pillow menu Exclusively customized luxury linen with 320 thread-count Egyptian cotton Daily in-room fruit amenity Electric power curtain I-Home docking station Electronic proximity key access system Room temperature and humidity control Mood lighting controls Luxurious marble bathroom with separate bathtub and high pressure rain shower 24 hours on-call STAR service 40 sqm",
+                    "sortOrder": 2,
+                    "averageRates": [
+                        {
+                            "roomTypeCode": "483616",
+                            "ratePlanCode": "3993426",
+                            "ratePlanType": "Regular",
+                            "rate": 118.75333333333333,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG02",
+                            "pmsRateExternalCode": "PMSTHG02",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483616",
+                            "ratePlanCode": "3993425",
+                            "ratePlanType": "Regular",
+                            "rate": 109.37666666666667,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THGD01",
+                            "pmsRateExternalCode": "PMS-THGD01",
+                            "ratePlanCategory": "Discount",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483616",
+                            "ratePlanCode": "3993427",
+                            "ratePlanType": "Regular",
+                            "rate": 128.12666666666667,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG03",
+                            "pmsRateExternalCode": "PMSTHG03",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483616",
+                            "ratePlanCode": "3993428",
+                            "ratePlanType": "Regular",
+                            "rate": 109.37666666666667,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG04",
+                            "pmsRateExternalCode": "PMSTHG04",
+                            "ratePlanCategory": "Discount",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        }
+                    ],
+                    "averageMemberRates": [],
+                    "roomFeatures": [
+                        {
+                            "amenityName": "People",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/occupant.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 4,
+                            "type": "Occupancy"
+                        },
+                        {
+                            "amenityName": "2 Twin Beds 100cm x 200cm",
+                            "image": {
+                                "type": "image",
+                                "source": "/assets/hotel/default/media/iconography/icon/bunk_beds.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 1,
+                            "type": "Beds"
+                        },
+                        {
+                            "amenityName": "Double Bed",
+                            "image": {
+                                "type": "image",
+                                "source": "/assets/hotel/default/media/iconography/icon/queen_bed.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 1,
+                            "type": "Beds"
+                        },
+                        {
+                            "amenityName": "Queen Bed",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/bed.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 1,
+                            "type": "Beds"
+                        },
+                        {
+                            "amenityName": "Sq ft / 4 Sq m",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/measuring-square.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 40,
+                            "type": "Size"
+                        }
+                    ],
+                    "amenities": [
+                        {
+                            "amenityName": "Air Conditioned",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/heater_and_air_conditioner.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Bathtub",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/shower_in_bath.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Coffeemaker",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/coffee_pot.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Shower",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/shower_special.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Telephone",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/telephone.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "TV",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/widescreen_tv_or_computer.svg",
+                                "sortOrder": 0
+                            }
+                        }
+                    ],
+                    "mainImage": {
+                        "type": "main-image",
+                        "source": "/assets/hotel/71125/media/room/main-image/detail-club_premier_enhanced_enhanced.png",
+                        "sortOrder": 0
+                    },
+                    "media": [],
+                    "roomUpgradeOptions": [],
+                    "quantityRemaining": "8",
+                    "nightlyRates": [
+                        {
+                            "amtTotal": 121.88,
+                            "amtBeforeTax": 121.88,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 121.88
+                        },
+                        {
+                            "amtTotal": 121.88,
+                            "amtBeforeTax": 121.88,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 121.88
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        },
+                        {
+                            "amtTotal": 131.25,
+                            "amtBeforeTax": 131.25,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 131.25
+                        },
+                        {
+                            "amtTotal": 131.25,
+                            "amtBeforeTax": 131.25,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 131.25
+                        },
+                        {
+                            "amtTotal": 121.88,
+                            "amtBeforeTax": 121.88,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 121.88
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        }
+                    ],
+                    "displayUrgencyMessage": false,
+                    "roomExternalCode": "CPR",
+                    "pmsRoomExternalCode": "PMSCPR",
+                    "available": true
+                },
+                {
+                    "roomTypeCode": "483617",
+                    "roomTypeName": "Celebrity Suite Room",
+                    "description": "An elegant and luxurious suite with separate bedroom, spacious living room and dining area, Celebrity Suite is ideal for you who desire extra space. Not only you will have the access to experience our Private Reception services and access to The Club Lounge, this 95sqm room will surely escalate your stay with all the luxury things that you need including a 24 hours personal butler service. • Private Reception and in-room check-in • Exclusive access to The Club Lounge • 24 hours butler service • Acqua di Parma luxurious amenities • Exclusively designed bedding with 100% goose down pillows and pillow menu • Exclusively customized luxury linen with 320 thread-count Egyptian cotton • Daily in-room fruit amenity • Personalized in-room entertainment program with more than 60 television channels • Electric power curtain • I-Home docking station • Electronic proximity key access system • Room temperature and humidity control • Mood lighting controls • Luxurious marble bathroom with separate bathtub and high pressure rain shower • 24 hours on-call STAR service • Laundry and dry cleaning service • 24 hours The Fitness Centre access • Express check-out service • 95 sqm",
+                    "sortOrder": 3,
+                    "averageRates": [
+                        {
+                            "roomTypeCode": "483617",
+                            "ratePlanCode": "3993426",
+                            "ratePlanType": "Regular",
+                            "rate": 143.33333333333334,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG02",
+                            "pmsRateExternalCode": "PMSTHG02",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483617",
+                            "ratePlanCode": "3993425",
+                            "ratePlanType": "Regular",
+                            "rate": 137.50333333333333,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THGD01",
+                            "pmsRateExternalCode": "PMS-THGD01",
+                            "ratePlanCategory": "Discount",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483617",
+                            "ratePlanCode": "3993427",
+                            "ratePlanType": "Regular",
+                            "rate": 156.25333333333333,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG03",
+                            "pmsRateExternalCode": "PMSTHG03",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483617",
+                            "ratePlanCode": "3993428",
+                            "ratePlanType": "Regular",
+                            "rate": 146.87666666666667,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG04",
+                            "pmsRateExternalCode": "PMSTHG04",
+                            "ratePlanCategory": "Discount",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        }
+                    ],
+                    "averageMemberRates": [],
+                    "roomFeatures": [
+                        {
+                            "amenityName": "People",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/occupant.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 4,
+                            "type": "Occupancy"
+                        },
+                        {
+                            "amenityName": "King Bed",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/bed.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 1,
+                            "type": "Beds"
+                        },
+                        {
+                            "amenityName": "Sofa Bed",
+                            "image": {
+                                "type": "image",
+                                "source": "/assets/hotel/default/media/iconography/icon/sofa_couch.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 0,
+                            "type": "Beds"
+                        },
+                        {
+                            "amenityName": "Sq ft / 95 Sq m",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/measuring-square.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 1023,
+                            "type": "Size"
+                        }
+                    ],
+                    "amenities": [
+                        {
+                            "amenityName": "Air Conditioned",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/heater_and_air_conditioner.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Bathroom",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false
+                        },
+                        {
+                            "amenityName": "Bathtub",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/shower_in_bath.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Coffeemaker",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/coffee_pot.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Microwave",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/microwave.svg",
+                                "sortOrder": 0
+                            }
+                        }
+                    ],
+                    "mainImage": {
+                        "type": "main-image",
+                        "source": "/assets/hotel/71125/media/room/main-image/detail_-celeb_suite_rm_enhanced_enhanced.png",
+                        "sortOrder": 0
+                    },
+                    "media": [],
+                    "roomUpgradeOptions": [],
+                    "quantityRemaining": "5",
+                    "nightlyRates": [
+                        {
+                            "amtTotal": 150.0,
+                            "amtBeforeTax": 150.0,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 150.0
+                        },
+                        {
+                            "amtTotal": 150.0,
+                            "amtBeforeTax": 150.0,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 150.0
+                        },
+                        {
+                            "amtTotal": 130.0,
+                            "amtBeforeTax": 130.0,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 130.0
+                        },
+                        {
+                            "amtTotal": 140.63,
+                            "amtBeforeTax": 140.63,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 140.63
+                        },
+                        {
+                            "amtTotal": 140.63,
+                            "amtBeforeTax": 140.63,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 140.63
+                        },
+                        {
+                            "amtTotal": 131.25,
+                            "amtBeforeTax": 131.25,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 131.25
+                        },
+                        {
+                            "amtTotal": 159.38,
+                            "amtBeforeTax": 159.38,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 159.38
+                        },
+                        {
+                            "amtTotal": 159.38,
+                            "amtBeforeTax": 159.38,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 159.38
+                        },
+                        {
+                            "amtTotal": 150.0,
+                            "amtBeforeTax": 150.0,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 150.0
+                        },
+                        {
+                            "amtTotal": 150.0,
+                            "amtBeforeTax": 150.0,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 150.0
+                        },
+                        {
+                            "amtTotal": 150.0,
+                            "amtBeforeTax": 150.0,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 150.0
+                        },
+                        {
+                            "amtTotal": 140.63,
+                            "amtBeforeTax": 140.63,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 140.63
+                        }
+                    ],
+                    "displayUrgencyMessage": false,
+                    "roomExternalCode": "CSR",
+                    "pmsRoomExternalCode": "PMSCSR",
+                    "available": true
+                }
+            ],
+            "allRoomTypes": [
+                {
+                    "roomTypeCode": "483614",
+                    "roomTypeName": "Premier Room",
+                    "description": "A 40sqm modern room with luxury touch in every corner. Our Premier Room offers the most exclusive room and bathroom design with separated standing high pressure rain shower cabin and bath tub. This room also equipped with a 46’ LED interactive high definition television with more than 60 channels, I-Home docking station, electric power curtain, and to ensure your comfort, we also provide exclusively customized luxury linen with Egyptian cotton bed sheet, duvet, pillows, all stuffed with down feathers which were selected only from the gooses’ neck to get you through the night. • Aromatherapy Associates London luxurious amenities • Exclusively designed bedding with 100% goose down pillows and pillow menu • Exclusively customized luxury linen with 320 thread-count Egyptian cotton • Daily in-room fruit amenity • Personalized in-room entertainment program with more than 60 television channels • Electric power curtain • I-Home docking station • Electronic proximity key access system • Room temperature and humidity control • Mood lighting controls • Luxurious marble bathroom with separate bathtub and high pressure rain shower • 24 hours on-call STAR service • Laundry and dry cleaning service • 24 hours The Fitness Centre access • Express check-out service • 40 sqm",
+                    "sortOrder": 1,
+                    "averageRates": [
+                        {
+                            "roomTypeCode": "483614",
+                            "ratePlanCode": "3993426",
+                            "ratePlanType": "Regular",
+                            "rate": 100.00333333333333,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "9",
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG02",
+                            "pmsRateExternalCode": "PMSTHG02",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483614",
+                            "ratePlanCode": "3993425",
+                            "ratePlanType": "Regular",
+                            "rate": 90.62666666666667,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "9",
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THGD01",
+                            "pmsRateExternalCode": "PMS-THGD01",
+                            "ratePlanCategory": "Discount",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483614",
+                            "ratePlanCode": "3993427",
+                            "ratePlanType": "Regular",
+                            "rate": 109.37666666666667,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "9",
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG03",
+                            "pmsRateExternalCode": "PMSTHG03",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483614",
+                            "ratePlanCode": "3993428",
+                            "ratePlanType": "Regular",
+                            "rate": 100.00333333333333,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "9",
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG04",
+                            "pmsRateExternalCode": "PMSTHG04",
+                            "ratePlanCategory": "Discount",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        }
+                    ],
+                    "averageMemberRates": [],
+                    "roomFeatures": [
+                        {
+                            "amenityName": "People",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/occupant.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 4,
+                            "type": "Occupancy"
+                        },
+                        {
+                            "amenityName": "Double Bed",
+                            "image": {
+                                "type": "image",
+                                "source": "/assets/hotel/default/media/iconography/icon/queen_bed.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 2,
+                            "type": "Beds"
+                        },
+                        {
+                            "amenityName": "Sq ft / 4 Sq m",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/measuring-square.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 40,
+                            "type": "Size"
+                        }
+                    ],
+                    "amenities": [
+                        {
+                            "amenityName": "Air Conditioned",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/heater_and_air_conditioner.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Alarm Clock",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/alarm_clock.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Bathroom Telephone",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/telephone.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Bathtub",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/shower_in_bath.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "City View",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/mountain_view.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Coffeemaker",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/coffee_pot.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Connecting Rooms",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/adjoining_or_connecting_rooms.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Cordless Telephone",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/telephone.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Free Newspaper",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/newspaper.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Hairdryer In Room",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/hair_styling_tools.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Microwave",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/microwave.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Personal Refrigerator",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/refrigerator.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Shower",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/shower_special.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Smoke Detectors",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/smoke_detector.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Telephone",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/telephone.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "TV",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/widescreen_tv_or_computer.svg",
+                                "sortOrder": 0
+                            }
+                        }
+                    ],
+                    "mainImage": {
+                        "type": "main-image",
+                        "source": "/assets/hotel/71125/media/room/main-image/premier_twin_room_enhanced_enhanced.png",
+                        "sortOrder": 0
+                    },
+                    "media": [
+                        {
+                            "type": "detail-image",
+                            "source": "/assets/hotel/71125/media/room/detail-image/detail-premier_twin_room_enhanced_enhanced.png",
+                            "sortOrder": 0
+                        },
+                        {
+                            "type": "detail-image",
+                            "source": "/assets/hotel/71125/media/room/detail-image/index2_enhanced.jpg",
+                            "sortOrder": 1
+                        },
+                        {
+                            "type": "detail-image",
+                            "source": "/assets/hotel/71125/media/room/detail-image/premier_and_premier_club_-_bathroom_-_2_enhanced_enhanced.jpg",
+                            "sortOrder": 2
+                        },
+                        {
+                            "type": "detail-image",
+                            "source": "/assets/hotel/71125/media/room/detail-image/premier_and_premier_club_-_bathroom_-_1_enhanced_enhanced.jpg",
+                            "sortOrder": 3
+                        },
+                        {
+                            "type": "detail-image",
+                            "source": "/assets/hotel/71125/media/room/detail-image/aal-2_enhanced_enhanced.jpg",
+                            "sortOrder": 4
+                        }
+                    ],
+                    "nightlyRates": [
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        },
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        },
+                        {
+                            "amtTotal": 93.75,
+                            "amtBeforeTax": 93.75,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 93.75
+                        },
+                        {
+                            "amtTotal": 93.75,
+                            "amtBeforeTax": 93.75,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 93.75
+                        },
+                        {
+                            "amtTotal": 93.75,
+                            "amtBeforeTax": 93.75,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 93.75
+                        },
+                        {
+                            "amtTotal": 84.38,
+                            "amtBeforeTax": 84.38,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 84.38
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        },
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        },
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        },
+                        {
+                            "amtTotal": 93.75,
+                            "amtBeforeTax": 93.75,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 93.75
+                        }
+                    ],
+                    "displayUrgencyMessage": true,
+                    "availableInventoryThreshold": 1,
+                    "roomExternalCode": "THGPR01",
+                    "pmsRoomExternalCode": "THGPR01001",
+                    "available": true
+                },
+                {
+                    "roomTypeCode": "483616",
+                    "roomTypeName": "Club Premier Room",
+                    "description": "Room Inclusive breakfast for 2 adults and 2 children below 6 years old Premier Club Room has the same elegance features of the Premier Room and it is allowing you to enjoy our Private Reception service. This modern and luxury room will also give you the exclusive benefit by having the access to The Club Lounge, offering plenty of benefits and personalized service to our honourable guests. Enjoy a private breakfast experience with fascinating view from the highest floor of The Trans Luxury Hotel. Also, you can enjoy the exclusive private meeting rooms and even a personalized Butler service available upon request. All these facilities and service to ensure you will have the most memorable experience. Exclusive access to The Club Lounge Private Reception Acqua di Parma luxury amenities Exclusively designed pillows and pillow menu Exclusively customized luxury linen with 320 thread-count Egyptian cotton Daily in-room fruit amenity Electric power curtain I-Home docking station Electronic proximity key access system Room temperature and humidity control Mood lighting controls Luxurious marble bathroom with separate bathtub and high pressure rain shower 24 hours on-call STAR service 40 sqm",
+                    "sortOrder": 2,
+                    "averageRates": [
+                        {
+                            "roomTypeCode": "483616",
+                            "ratePlanCode": "3993426",
+                            "ratePlanType": "Regular",
+                            "rate": 118.75333333333333,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "8",
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG02",
+                            "pmsRateExternalCode": "PMSTHG02",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483616",
+                            "ratePlanCode": "3993425",
+                            "ratePlanType": "Regular",
+                            "rate": 109.37666666666667,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "8",
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THGD01",
+                            "pmsRateExternalCode": "PMS-THGD01",
+                            "ratePlanCategory": "Discount",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483616",
+                            "ratePlanCode": "3993427",
+                            "ratePlanType": "Regular",
+                            "rate": 128.12666666666667,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "8",
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG03",
+                            "pmsRateExternalCode": "PMSTHG03",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483616",
+                            "ratePlanCode": "3993428",
+                            "ratePlanType": "Regular",
+                            "rate": 109.37666666666667,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "8",
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG04",
+                            "pmsRateExternalCode": "PMSTHG04",
+                            "ratePlanCategory": "Discount",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        }
+                    ],
+                    "averageMemberRates": [],
+                    "roomFeatures": [
+                        {
+                            "amenityName": "People",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/occupant.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 4,
+                            "type": "Occupancy"
+                        },
+                        {
+                            "amenityName": "2 Twin Beds 100cm x 200cm",
+                            "image": {
+                                "type": "image",
+                                "source": "/assets/hotel/default/media/iconography/icon/bunk_beds.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 1,
+                            "type": "Beds"
+                        },
+                        {
+                            "amenityName": "Double Bed",
+                            "image": {
+                                "type": "image",
+                                "source": "/assets/hotel/default/media/iconography/icon/queen_bed.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 1,
+                            "type": "Beds"
+                        },
+                        {
+                            "amenityName": "Queen Bed",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/bed.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 1,
+                            "type": "Beds"
+                        },
+                        {
+                            "amenityName": "Sq ft / 4 Sq m",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/measuring-square.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 40,
+                            "type": "Size"
+                        }
+                    ],
+                    "amenities": [
+                        {
+                            "amenityName": "Air Conditioned",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/heater_and_air_conditioner.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Bathtub",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/shower_in_bath.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Coffeemaker",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/coffee_pot.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Shower",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/shower_special.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Telephone",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/telephone.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "TV",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/widescreen_tv_or_computer.svg",
+                                "sortOrder": 0
+                            }
+                        }
+                    ],
+                    "mainImage": {
+                        "type": "main-image",
+                        "source": "/assets/hotel/71125/media/room/main-image/detail-club_premier_enhanced_enhanced.png",
+                        "sortOrder": 0
+                    },
+                    "media": [],
+                    "nightlyRates": [
+                        {
+                            "amtTotal": 121.88,
+                            "amtBeforeTax": 121.88,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 121.88
+                        },
+                        {
+                            "amtTotal": 121.88,
+                            "amtBeforeTax": 121.88,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 121.88
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        },
+                        {
+                            "amtTotal": 131.25,
+                            "amtBeforeTax": 131.25,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 131.25
+                        },
+                        {
+                            "amtTotal": 131.25,
+                            "amtBeforeTax": 131.25,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 131.25
+                        },
+                        {
+                            "amtTotal": 121.88,
+                            "amtBeforeTax": 121.88,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 121.88
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 112.5,
+                            "amtBeforeTax": 112.5,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 112.5
+                        },
+                        {
+                            "amtTotal": 103.13,
+                            "amtBeforeTax": 103.13,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 103.13
+                        }
+                    ],
+                    "displayUrgencyMessage": true,
+                    "availableInventoryThreshold": 3,
+                    "roomExternalCode": "CPR",
+                    "pmsRoomExternalCode": "PMSCPR",
+                    "available": true
+                },
+                {
+                    "roomTypeCode": "483617",
+                    "roomTypeName": "Celebrity Suite Room",
+                    "description": "An elegant and luxurious suite with separate bedroom, spacious living room and dining area, Celebrity Suite is ideal for you who desire extra space. Not only you will have the access to experience our Private Reception services and access to The Club Lounge, this 95sqm room will surely escalate your stay with all the luxury things that you need including a 24 hours personal butler service. • Private Reception and in-room check-in • Exclusive access to The Club Lounge • 24 hours butler service • Acqua di Parma luxurious amenities • Exclusively designed bedding with 100% goose down pillows and pillow menu • Exclusively customized luxury linen with 320 thread-count Egyptian cotton • Daily in-room fruit amenity • Personalized in-room entertainment program with more than 60 television channels • Electric power curtain • I-Home docking station • Electronic proximity key access system • Room temperature and humidity control • Mood lighting controls • Luxurious marble bathroom with separate bathtub and high pressure rain shower • 24 hours on-call STAR service • Laundry and dry cleaning service • 24 hours The Fitness Centre access • Express check-out service • 95 sqm",
+                    "sortOrder": 3,
+                    "averageRates": [
+                        {
+                            "roomTypeCode": "483617",
+                            "ratePlanCode": "3993426",
+                            "ratePlanType": "Regular",
+                            "rate": 143.33333333333334,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "5",
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG02",
+                            "pmsRateExternalCode": "PMSTHG02",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483617",
+                            "ratePlanCode": "3993425",
+                            "ratePlanType": "Regular",
+                            "rate": 137.50333333333333,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "5",
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THGD01",
+                            "pmsRateExternalCode": "PMS-THGD01",
+                            "ratePlanCategory": "Discount",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483617",
+                            "ratePlanCode": "3993427",
+                            "ratePlanType": "Regular",
+                            "rate": 156.25333333333333,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "5",
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG03",
+                            "pmsRateExternalCode": "PMSTHG03",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "483617",
+                            "ratePlanCode": "3993428",
+                            "ratePlanType": "Regular",
+                            "rate": 146.87666666666667,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "5",
+                            "displayUrgencyMessage": false,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "THG04",
+                            "pmsRateExternalCode": "PMSTHG04",
+                            "ratePlanCategory": "Discount",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        }
+                    ],
+                    "averageMemberRates": [],
+                    "roomFeatures": [
+                        {
+                            "amenityName": "People",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/occupant.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 4,
+                            "type": "Occupancy"
+                        },
+                        {
+                            "amenityName": "King Bed",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/bed.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 1,
+                            "type": "Beds"
+                        },
+                        {
+                            "amenityName": "Sofa Bed",
+                            "image": {
+                                "type": "image",
+                                "source": "/assets/hotel/default/media/iconography/icon/sofa_couch.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 0,
+                            "type": "Beds"
+                        },
+                        {
+                            "amenityName": "Sq ft / 95 Sq m",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/measuring-square.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 1023,
+                            "type": "Size"
+                        }
+                    ],
+                    "amenities": [
+                        {
+                            "amenityName": "Air Conditioned",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/heater_and_air_conditioner.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Bathroom",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false
+                        },
+                        {
+                            "amenityName": "Bathtub",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/shower_in_bath.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Coffeemaker",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/coffee_pot.svg",
+                                "sortOrder": 0
+                            }
+                        },
+                        {
+                            "amenityName": "Microwave",
+                            "sortOrder": 0,
+                            "isPremiumAmenity": false,
+                            "image": {
+                                "type": "icon",
+                                "source": "/assets/hotel/default/media/iconography/icon/microwave.svg",
+                                "sortOrder": 0
+                            }
+                        }
+                    ],
+                    "mainImage": {
+                        "type": "main-image",
+                        "source": "/assets/hotel/71125/media/room/main-image/detail_-celeb_suite_rm_enhanced_enhanced.png",
+                        "sortOrder": 0
+                    },
+                    "media": [],
+                    "nightlyRates": [
+                        {
+                            "amtTotal": 150.0,
+                            "amtBeforeTax": 150.0,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 150.0
+                        },
+                        {
+                            "amtTotal": 150.0,
+                            "amtBeforeTax": 150.0,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 150.0
+                        },
+                        {
+                            "amtTotal": 130.0,
+                            "amtBeforeTax": 130.0,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993426",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 130.0
+                        },
+                        {
+                            "amtTotal": 140.63,
+                            "amtBeforeTax": 140.63,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 140.63
+                        },
+                        {
+                            "amtTotal": 140.63,
+                            "amtBeforeTax": 140.63,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 140.63
+                        },
+                        {
+                            "amtTotal": 131.25,
+                            "amtBeforeTax": 131.25,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993425",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 131.25
+                        },
+                        {
+                            "amtTotal": 159.38,
+                            "amtBeforeTax": 159.38,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 159.38
+                        },
+                        {
+                            "amtTotal": 159.38,
+                            "amtBeforeTax": 159.38,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 159.38
+                        },
+                        {
+                            "amtTotal": 150.0,
+                            "amtBeforeTax": 150.0,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993427",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 150.0
+                        },
+                        {
+                            "amtTotal": 150.0,
+                            "amtBeforeTax": 150.0,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 150.0
+                        },
+                        {
+                            "amtTotal": 150.0,
+                            "amtBeforeTax": 150.0,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 150.0
+                        },
+                        {
+                            "amtTotal": 140.63,
+                            "amtBeforeTax": 140.63,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3993428",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 140.63
+                        }
+                    ],
+                    "displayUrgencyMessage": true,
+                    "availableInventoryThreshold": 1,
+                    "roomExternalCode": "CSR",
+                    "pmsRoomExternalCode": "PMSCSR",
+                    "available": true
+                },
+                {
+                    "roomTypeCode": "99313",
+                    "roomTypeName": "Deluxe Queen",
+                    "description": "Deluxe Queen",
+                    "sortOrder": 4,
+                    "averageRates": [
+                        {
+                            "roomTypeCode": "99313",
+                            "ratePlanCode": "3772083",
+                            "ratePlanType": "Regular",
+                            "rate": 60.0,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "5",
+                            "displayUrgencyMessage": true,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "RC1842",
+                            "pmsRateExternalCode": "RC1842",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "99313",
+                            "ratePlanCode": "3772146",
+                            "ratePlanType": "Regular",
+                            "rate": 70.0,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "5",
+                            "displayUrgencyMessage": true,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "RC1843",
+                            "pmsRateExternalCode": "RC1843",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        },
+                        {
+                            "roomTypeCode": "99313",
+                            "ratePlanCode": "3772067",
+                            "ratePlanType": "Regular",
+                            "rate": 50.0,
+                            "discount": 0.0,
+                            "showPromotionBanner": false,
+                            "geoPricingPromotion": false,
+                            "roomUpgradeList": [],
+                            "quantityRemaining": "5",
+                            "displayUrgencyMessage": true,
+                            "merchandisedPromoData": {},
+                            "rateExternalCode": "RC1841",
+                            "pmsRateExternalCode": "RC1841",
+                            "ratePlanCategory": "Rack",
+                            "available": true,
+                            "xnightsDiscount": null,
+                            "xnightsDiscountType": null,
+                            "allowWebRoomUpgrade": false
+                        }
+                    ],
+                    "averageMemberRates": [],
+                    "roomFeatures": [
+                        {
+                            "amenityName": "People",
+                            "image": {
+                                "type": "image",
+                                "source": "images/icons/occupant.svg",
+                                "sortOrder": 1
+                            },
+                            "quantity": 10,
+                            "type": "Occupancy"
+                        }
+                    ],
+                    "amenities": [],
+                    "mainImage": {
+                        "type": "main-image",
+                        "source": "/assets/hotel/71125/media/room/main-image/terrace_suite_320x320_enhanced.jpg",
+                        "sortOrder": 0
+                    },
+                    "media": [],
+                    "nightlyRates": [
+                        {
+                            "amtTotal": 60.0,
+                            "amtBeforeTax": 60.0,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3772083",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 60.0
+                        },
+                        {
+                            "amtTotal": 60.0,
+                            "amtBeforeTax": 60.0,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3772083",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 60.0
+                        },
+                        {
+                            "amtTotal": 60.0,
+                            "amtBeforeTax": 60.0,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3772083",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 60.0
+                        },
+                        {
+                            "amtTotal": 70.0,
+                            "amtBeforeTax": 70.0,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3772146",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 70.0
+                        },
+                        {
+                            "amtTotal": 70.0,
+                            "amtBeforeTax": 70.0,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3772146",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 70.0
+                        },
+                        {
+                            "amtTotal": 70.0,
+                            "amtBeforeTax": 70.0,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3772146",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 70.0
+                        },
+                        {
+                            "amtTotal": 50.0,
+                            "amtBeforeTax": 50.0,
+                            "date": "2021-02-20",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3772067",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 50.0
+                        },
+                        {
+                            "amtTotal": 50.0,
+                            "amtBeforeTax": 50.0,
+                            "date": "2021-02-21",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3772067",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 50.0
+                        },
+                        {
+                            "amtTotal": 50.0,
+                            "amtBeforeTax": 50.0,
+                            "date": "2021-02-22",
+                            "discount": 0.0,
+                            "discountType": null,
+                            "ratePlanCode": "3772067",
+                            "totalTax": 0.0,
+                            "totalExclusiveTaxes": 0.0,
+                            "totalInclusiveTaxes": 0.0,
+                            "baseRateWithoutAnyTax": 50.0
+                        }
+                    ],
+                    "displayUrgencyMessage": true,
+                    "availableInventoryThreshold": 5,
+                    "roomExternalCode": "DQR",
+                    "pmsRoomExternalCode": "PMSDQR",
+                    "available": true
+                }
+            ],
+            "ratePlans": [
+                {
+                    "ratePlanCode": "3993426",
+                    "ratePlanType": "Regular",
+                    "ratePlanName": "Without Breakfast",
+                    "leadRate": 100.00333333333333,
+                    "sortOrder": 1,
+                    "discountRate": 0.0,
+                    "cancellationPolicy": {
+                        "nonRefundable": false,
+                        "policyCode": "999303",
+                        "policyDescription": "Rooms have a 24 hour cancellation policy. After that, guests will be charged the cost of their room.",
+                        "cancellationDeadlines": [
+                            {
+                                "checkInDate": "2021-02-20",
+                                "deadLineDate": "2021-02-19",
+                                "deadLineHour": 15,
+                                "deadLineDurationHours": 24
+                            }
+                        ]
+                    },
+                    "guaranteePolicy": {
+                        "policyCode": "494724",
+                        "policyType": "Deposit",
+                        "policyDescription": "Deposit Policy",
+                        "acceptTender": "Credit Card, Alternate Payments"
+                    },
+                    "ratePlanDescription": "Without Breakfast",
+                    "confidential": false,
+                    "isAllowWebRoomUpgrade": false,
+                    "rateExternalCode": "THG02",
+                    "pmsRateExternalCode": "PMSTHG02",
+                    "ratePlanCategory": "Rack",
+                    "available": true,
+                    "multiRatePlan": false,
+                    "default": true
+                },
+                {
+                    "ratePlanCode": "3993425",
+                    "ratePlanType": "Regular",
+                    "ratePlanName": "Without Breakfast",
+                    "leadRate": 90.62666666666667,
+                    "sortOrder": 2,
+                    "discountRate": 0.0,
+                    "cancellationPolicy": {
+                        "nonRefundable": false,
+                        "policyCode": "999303",
+                        "policyDescription": "Rooms have a 24 hour cancellation policy. After that, guests will be charged the cost of their room.",
+                        "cancellationDeadlines": [
+                            {
+                                "checkInDate": "2021-02-20",
+                                "deadLineDate": "2021-02-19",
+                                "deadLineHour": 15,
+                                "deadLineDurationHours": 24
+                            }
+                        ]
+                    },
+                    "guaranteePolicy": {
+                        "policyCode": "494724",
+                        "policyType": "Deposit",
+                        "policyDescription": "Deposit Policy",
+                        "acceptTender": "Credit Card, Alternate Payments"
+                    },
+                    "ratePlanDescription": "Without Breakfast",
+                    "confidential": false,
+                    "isAllowWebRoomUpgrade": false,
+                    "rateExternalCode": "THGD01",
+                    "pmsRateExternalCode": "PMS-THGD01",
+                    "ratePlanCategory": "Discount",
+                    "available": true,
+                    "multiRatePlan": false,
+                    "default": false
+                },
+                {
+                    "ratePlanCode": "3993427",
+                    "ratePlanType": "Regular",
+                    "ratePlanName": "With Breakfast",
+                    "leadRate": 109.37666666666667,
+                    "sortOrder": 3,
+                    "discountRate": 0.0,
+                    "cancellationPolicy": {
+                        "nonRefundable": false,
+                        "policyCode": "999303",
+                        "policyDescription": "Rooms have a 24 hour cancellation policy. After that, guests will be charged the cost of their room.",
+                        "cancellationDeadlines": [
+                            {
+                                "checkInDate": "2021-02-20",
+                                "deadLineDate": "2021-02-19",
+                                "deadLineHour": 15,
+                                "deadLineDurationHours": 24
+                            }
+                        ]
+                    },
+                    "guaranteePolicy": {
+                        "policyCode": "494724",
+                        "policyType": "Deposit",
+                        "policyDescription": "Deposit Policy",
+                        "acceptTender": "Credit Card, Alternate Payments"
+                    },
+                    "ratePlanDescription": "With Breakfast",
+                    "confidential": false,
+                    "isAllowWebRoomUpgrade": false,
+                    "rateExternalCode": "THG03",
+                    "pmsRateExternalCode": "PMSTHG03",
+                    "ratePlanCategory": "Rack",
+                    "available": true,
+                    "multiRatePlan": false,
+                    "default": false
+                },
+                {
+                    "ratePlanCode": "3993428",
+                    "ratePlanType": "Regular",
+                    "ratePlanName": "With Breakfast",
+                    "leadRate": 100.00333333333333,
+                    "sortOrder": 4,
+                    "discountRate": 0.0,
+                    "cancellationPolicy": {
+                        "nonRefundable": false,
+                        "policyCode": "999303",
+                        "policyDescription": "Rooms have a 24 hour cancellation policy. After that, guests will be charged the cost of their room.",
+                        "cancellationDeadlines": [
+                            {
+                                "checkInDate": "2021-02-20",
+                                "deadLineDate": "2021-02-19",
+                                "deadLineHour": 15,
+                                "deadLineDurationHours": 24
+                            }
+                        ]
+                    },
+                    "guaranteePolicy": {
+                        "policyCode": "494724",
+                        "policyType": "Deposit",
+                        "policyDescription": "Deposit Policy",
+                        "acceptTender": "Credit Card, Alternate Payments"
+                    },
+                    "ratePlanDescription": "With Breakfast",
+                    "confidential": false,
+                    "isAllowWebRoomUpgrade": false,
+                    "rateExternalCode": "THG04",
+                    "pmsRateExternalCode": "PMSTHG04",
+                    "ratePlanCategory": "Discount",
+                    "available": true,
+                    "multiRatePlan": false,
+                    "default": false
+                },
+                {
+                    "ratePlanCode": "3772083",
+                    "ratePlanType": "Regular",
+                    "ratePlanName": "RC1842 Rack Rate",
+                    "leadRate": 60.0,
+                    "sortOrder": 5,
+                    "discountRate": 0.0,
+                    "cancellationPolicy": {
+                        "nonRefundable": false,
+                        "policyCode": "999303",
+                        "policyDescription": "Rooms have a 24 hour cancellation policy. After that, guests will be charged the cost of their room.",
+                        "cancellationDeadlines": [
+                            {
+                                "checkInDate": "2021-02-20",
+                                "deadLineDate": "2021-02-19",
+                                "deadLineHour": 15,
+                                "deadLineDurationHours": 24
+                            }
+                        ]
+                    },
+                    "guaranteePolicy": {
+                        "policyCode": "494724",
+                        "policyType": "Deposit",
+                        "policyDescription": "Deposit Policy",
+                        "acceptTender": "Credit Card, Alternate Payments"
+                    },
+                    "ratePlanDescription": "RC1842 Rack Rate",
+                    "confidential": false,
+                    "isAllowWebRoomUpgrade": false,
+                    "rateExternalCode": "RC1842",
+                    "pmsRateExternalCode": "RC1842",
+                    "ratePlanCategory": "Rack",
+                    "available": true,
+                    "multiRatePlan": false,
+                    "default": false
+                },
+                {
+                    "ratePlanCode": "3772146",
+                    "ratePlanType": "Regular",
+                    "ratePlanName": "RC1843 Rate ",
+                    "leadRate": 70.0,
+                    "sortOrder": 6,
+                    "discountRate": 0.0,
+                    "cancellationPolicy": {
+                        "nonRefundable": false,
+                        "policyCode": "999303",
+                        "policyDescription": "Rooms have a 24 hour cancellation policy. After that, guests will be charged the cost of their room.",
+                        "cancellationDeadlines": [
+                            {
+                                "checkInDate": "2021-02-20",
+                                "deadLineDate": "2021-02-19",
+                                "deadLineHour": 15,
+                                "deadLineDurationHours": 24
+                            }
+                        ]
+                    },
+                    "guaranteePolicy": {
+                        "policyCode": "494724",
+                        "policyType": "Deposit",
+                        "policyDescription": "Deposit Policy",
+                        "acceptTender": "Credit Card, Alternate Payments"
+                    },
+                    "ratePlanDescription": "RC1843 Rate",
+                    "confidential": false,
+                    "isAllowWebRoomUpgrade": false,
+                    "rateExternalCode": "RC1843",
+                    "pmsRateExternalCode": "RC1843",
+                    "ratePlanCategory": "Rack",
+                    "available": true,
+                    "multiRatePlan": false,
+                    "default": false
+                },
+                {
+                    "ratePlanCode": "3772067",
+                    "ratePlanType": "Regular",
+                    "ratePlanName": "Rack Rate for DB Test",
+                    "leadRate": 50.0,
+                    "sortOrder": 7,
+                    "discountRate": 0.0,
+                    "cancellationPolicy": {
+                        "nonRefundable": false,
+                        "policyCode": "999303",
+                        "policyDescription": "Rooms have a 24 hour cancellation policy. After that, guests will be charged the cost of their room.",
+                        "cancellationDeadlines": [
+                            {
+                                "checkInDate": "2021-02-20",
+                                "deadLineDate": "2021-02-19",
+                                "deadLineHour": 15,
+                                "deadLineDurationHours": 24
+                            }
+                        ]
+                    },
+                    "guaranteePolicy": {
+                        "policyCode": "494724",
+                        "policyType": "Deposit",
+                        "policyDescription": "Deposit Policy",
+                        "acceptTender": "Credit Card, Alternate Payments"
+                    },
+                    "ratePlanDescription": "Rack Rate for DB Test",
+                    "confidential": false,
+                    "isAllowWebRoomUpgrade": false,
+                    "rateExternalCode": "RC1841",
+                    "pmsRateExternalCode": "RC1841",
+                    "ratePlanCategory": "Rack",
+                    "available": true,
+                    "multiRatePlan": false,
+                    "default": false
+                }
+            ],
+            "roomCategories": [
+                {
+                    "categoryCode": "14725",
+                    "categoryName": "BE Premier Room",
+                    "sortOrder": 1
+                },
+                {
+                    "categoryCode": "11397",
+                    "categoryName": "BE2",
+                    "sortOrder": 2
+                }
+            ],
+            "packageCategories": [],
+            "packageTypes": [],
+            "mandatoryServices": []
+        }
+    ],
+    "alternateHotels": null,
+    "isPeStrikeThroughEnabled": true,
+    "promotionApplied": false
+}

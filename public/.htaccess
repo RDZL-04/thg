@@ -1,0 +1,33 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+    RewriteEngine On
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
+
+    # Send Requests To Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+	
+	#Redirect to secure protocol
+	RewriteCond %{HTTP_HOST} ^thg\.arkamaya\.net [NC]
+	RewriteCond %{SERVER_PORT} 80
+	RewriteRule ^(.*)$ https://thg.arkamaya.net/$1 [R,L]
+	
+</IfModule>
+
+## ENABLE METHODS
+#<Limit PUT DELETE>
+#Order deny,allow
+#Require all granted
+#</Limit>

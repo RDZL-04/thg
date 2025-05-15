@@ -1,0 +1,36 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class AddColumnCreatedByAndUpdatedByOnTableFboutlets extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::table('fboutlets', function($table)
+        {
+            $table->string('created_by')->after('created_at')->nullable();
+            $table->string('updated_by')->after('updated_at')->nullable();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::table('fboutlets', function($table)
+        {
+            $table->dropColumn('created_by');
+            $table->dropColumn('updated_by');
+        });
+    }
+}

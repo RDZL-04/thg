@@ -1,0 +1,70 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | hotel Language Lines
+    |--------------------------------------------------------------------------
+	|
+    */
+
+    'title' => 'Master Hotel',
+    'no' => 'No',
+    'action' => 'Action',
+    'hotel-name' => 'Hotel Name',
+    'description' => 'Description',
+    'star' => 'Star',
+    'booking-hotel-id' => 'Booking Hotel Id',
+    'pg-merchant-id' => 'PG Merchant ID',
+    'pg-api-key' => 'PG Api Key',
+    'pg-api-secreet' => 'PG Api Secret',
+    'status' => 'Status',
+    'created-at' => 'Created At',
+    'updated-at' => 'Update At',
+    'created-by' => 'Created By',
+    'updated-by' => 'Update By',
+    'general-info' => 'General Information',
+    'address' => 'Address',
+    'be-hotel-id' => 'Be Hotel Id',
+    'be-secreet-key' => 'Be Secret Key',
+    'be-api-key' => 'Be API Key',
+    'mpg-secreet-key' => 'MPG Secret Key',
+    'mpg-api-key' => 'MPG API Key',
+    'mpg-merchant-id' => 'MPG Merchant Id',
+    'maps' => 'Maps',
+    'hotel-user' => 'User Hotel',
+    'email' => 'Email',
+    'role' => 'Role',
+    'facilities' => 'Hotel Facilities',
+    'icon' => 'Icon',
+    'image' =>'Image',
+    'name-facilities' => 'Facilities Name',
+    'images-hotel' => 'Hotel Image',
+    'active' => 'Active',
+    'not-active' => 'Not Active',
+    'city' => 'City',
+    'name' => 'Name',
+    'data-not-found' =>'Data Not Found',
+    'no-images' => 'No Images',
+    'seq-no' =>'Seq No',
+    'desc-icon' => 'Icon format:png,svg|max:2048 kb|resolution: 256x256',
+    'image-desc' => 'image format:jpeg,jpg,png|max:256 kb|resolution: 800x600 or 600x400',
+    'invalid-extension' => 'The specific file <strong>[filename]</strong> could not be uploaded.<br><ul><li>Only files with the following extensions are allowed: [extensions] </li></ul>This value should not be null',
+    'add_hotel' => 'Add Hotel',
+    'edit_hotel' => 'Edit Hotel',
+    'add_hotel_user' => 'Add User Hotel',
+    'add_image' => 'Add Image',
+    'edit_image' => 'Edit Image',
+    'edit_facility' => 'Edit Hotel Facilities',
+    'add_facility' => 'Add Hotel Facilities',
+	'email_notice' => 'Email Notification',
+	'email_mice' => 'Email Mice',
+	'mice_wa' => 'Mice WA',
+	'near_attraction_hotel' => 'Near Attraction Hotel',
+    'name' => 'Name',
+    'category' => 'Category',
+    'distance' => 'Distance',
+    'icon' => 'Icon',
+];
+ 

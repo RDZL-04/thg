@@ -1,0 +1,70 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | hotel Language Lines
+    |--------------------------------------------------------------------------
+	|
+    */
+
+    'title' => 'Master Hotel',
+    'no' => 'No',
+    'action' => 'Aksi',
+    'hotel-name' => 'Nama Hotel',
+    'description' => 'Deskripsi',
+    'star' => 'Bintang',
+    'booking-hotel-id' => 'Booking Hotel Id',
+    'pg-merchant-id' => 'PG Merchant ID',
+    'pg-api-key' => 'PG Api Key',
+    'pg-api-secreet' => 'PG Api Secret',
+    'status' => 'Status',
+    'created-at' => 'Dibuat Pada',
+    'updated-at' => 'Diedit Pada',
+    'created-by' => 'Dibuat Oleh',
+    'updated-by' => 'Diedit Oleh',
+    'general-info' => 'Informasi Umum',
+    'address' => 'Alamat',
+    'be-hotel-id' => 'Be Hotel Id',
+    'be-secreet-key' => 'Be Secret Key',
+    'be-api-key' => 'Be API Key',
+    'mpg-secreet-key' => 'MPG Secret Key',
+    'mpg-api-key' => 'MPG API Key',
+    'mpg-merchant-id' => 'MPG Merchant Id',
+    'maps' => 'Maps',
+    'hotel-user' => 'Pengguna Hotel',
+    'email' => 'Email',
+    'role' => 'Wewenang',
+    'facilities' => 'Facilitas Hotels',
+    'icon' => 'Ikon',
+    'image' =>'gambar',
+    'name-facilities' => 'Nama Facilitas',
+    'images-hotel' => 'Gambar Hotel',
+    'active' => 'Aktif',
+    'not-active' => 'tidak Aktif',
+    'city' => 'Kota',
+    'name' => 'Nama',
+    'data-not-found' =>'Data Tidak Ditemukan',
+    'no-images' => 'Tidak Ada Gambar',
+    'seq-no' =>'No Seq',
+    'desc-icon' => 'Ikon format:png|max:2048 kb|resolution: 256x256',
+    'image-desc' => 'Gambar format:jpeg,jpg,png|max:256 kb|resolution: 800x600 or 600x400',
+	'invalid-extension' => 'The specific file <strong>[filename]</strong> could not be uploaded.<br><ul><li>Only files with the following extensions are allowed: [extensions] </li></ul>This value should not be null',
+    'add_hotel' => 'Tambah Hotel',
+    'edit_hotel' => 'Ubah Hotel',
+    'add_hotel_user' => 'Tambah Pengguna Hotel',
+    'add_image' => 'Tambah Gambar',
+    'edit_image' => 'Ubah Gambar',
+    'edit_facility' => 'Ubah Facilitas Hotel',
+    'add_facility' => 'Tambah Facilitas Hotel',
+	'email_notice' => 'Email Notifikasi',
+	'email_mice' => 'Email Mice',
+	'mice_wa' => 'Mice WA',
+	'near_attraction_hotel' => 'Near Attraction Hotel',
+    'name' => 'Nama',
+    'category' => 'Kategori',
+    'distance' => 'Jarak',
+    'icon' => 'Icon',
+];
+ 
