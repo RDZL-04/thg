@@ -20,7 +20,7 @@ class GAfour
   ) {
 
     $this->measurementId = env('GA4ID', 'G-BG64XX2FZJ');
-    $this->apiSecret = env('GA4APISECRET', 'k5creApzSleI-FyB5D0lqQ');
+    $this->apiSecret = env('GA4APISECRET', '');
 
     if ($clientId)
       $this->clientId = $clientId;

@@ -3269,7 +3269,7 @@ class AlloApiController extends Controller
 
     function decryptData($data)
     {
-        $password = 'C3p0tD3wal4';
+        $password = '';
         $method = 'aes-256-cbc';
         $password = substr(hash('sha256', $password, true), 0, 32);
         $iv = chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0);
@@ -3281,7 +3281,7 @@ class AlloApiController extends Controller
 
     function encryptData($data)
     {
-        $password = 'C3p0tD3wal4';
+        $password = '';
         $method = 'aes-256-cbc';
         $password = substr(hash('sha256', $password, true), 0, 32);
         $iv = chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0) . chr(0x0);

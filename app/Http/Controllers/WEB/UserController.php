@@ -60,7 +60,7 @@ class UserController extends Controller
         $data = $data+['device' => 'web'];
 
         //  $headers = [
-        //     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+        //     'x-api-key' => '',
         //   ];
           $client = new Client(); //GuzzleHttp\Client
           // $response = $client->request('POST', 'https://thg.arkamaya.net/api/login',[
@@ -168,7 +168,7 @@ class UserController extends Controller
           if(Auth::user()->permission('utility')){
             $name = session('full_name');
             // $headers = [
-            //   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+            //   'x-api-key' => '',
             // ];
     
             $client = new Client(); //GuzzleHttp\Client
@@ -213,7 +213,7 @@ class UserController extends Controller
           if(Auth::user()->permission('utility')){
             $name = session('full_name');
             // $headers = [
-            //   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+            //   'x-api-key' => '',
             // ];
     
             $client = new Client(); //GuzzleHttp\Client
@@ -297,7 +297,7 @@ class UserController extends Controller
             // dd($token);
             // dd($id_user);
             // $headers = [
-            //   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+            //   'x-api-key' => '',
             // ];
     
             $client = new Client(); //GuzzleHttp\Client
@@ -387,7 +387,7 @@ class UserController extends Controller
         // if((session()->get('role')=='Admin')){
         if(Auth::user()->permission('utility')){
           // $headers = [
-          //     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+          //     'x-api-key' => '',
           // ];
           
           $client = new Client(); //GuzzleHttp\Client
@@ -446,7 +446,7 @@ class UserController extends Controller
         // if((session()->get('role')=='Admin')){
         if(Auth::user()->permission('utility')){
           // $headers = [
-          //     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+          //     'x-api-key' => '',
           // ];
           
           $client = new Client(); //GuzzleHttp\Client
@@ -507,7 +507,7 @@ class UserController extends Controller
       // if((session()->get('role')=='Admin')){
       if(Auth::user()->permission('utility')){
         // $headers = [
-        //     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+        //     'x-api-key' => '',
         // ];
         
         $client = new Client(); //GuzzleHttp\Client

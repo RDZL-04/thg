@@ -10,14 +10,14 @@ class Header
   private Body $body;
   private string $contentType = 'application/json';
   private string $appId = '50002THT01';
-  private string $appSecret = 'hjvf0h9njj0odji24069rjdy31asf6ry';
+  private string $appSecret = '';
   private string $nonce;
   private float $timestamp;
   private string $sign;
 
   public function __construct(
-    Body $body, 
-    string $appId = null, 
+    Body $body,
+    string $appId = null,
     string $appSecret = null
   ) {
     $this->enc = new EncryptHelper();
@@ -25,21 +25,21 @@ class Header
 
     if ($appId) $this->appId = $appId;
     if ($appSecret) $this->appSecret = $appSecret;
-    
+
     $this->nonce = strval(floor($this->enc->random_0_1() * 100000000));
     $this->timestamp = round(microtime(true) * 1000);
 
     $this->genSign();
   }
 
-  public function genSign() : void
+  public function genSign(): void
   {
-    $arr = [ 
+    $arr = [
       $this->appId,
       $this->nonce,
       $this->timestamp,
       $this->appSecret,
-      json_encode($this->body->get()) 
+      json_encode($this->body->get())
     ];
 
     // Sorting sesuai ASCII
@@ -67,7 +67,7 @@ class Header
     $this->sign = $sign;
   }
 
-  public function get() : array 
+  public function get(): array
   {
     return [
       'Content-Type' => $this->contentType,

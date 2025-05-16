@@ -31,8 +31,8 @@ use App\Mail\SendMailFailedReservation;
 
 class WebhookController extends Controller
 {
-	public $apiKey = 'rpRYWLStMJ7dwHuSfEHrr2';
-	public $secretKey = 'csKTePhgyZNTKz2o7Mb6Xw';
+	public $apiKey = '';
+	public $secretKey = '';
 	public $urlCapture = 'https://api.dev.megapay.app/inquiry/<inquiry_id>/payments/<transaction_id>/capture';
 	public $createLogs = true;
 	public $amount = "";

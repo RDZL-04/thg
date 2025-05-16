@@ -91,7 +91,7 @@ class FacilityController extends Controller
 								  ->with('error',$validator->errors()->first());  
 				  }
 				  // $headers = [
-				  //   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+				  //   'x-api-key' => '',
 				  // ];
 				  $client = new Client(); //GuzzleHttp\Client
 				  if(empty($request['file'])){
@@ -200,7 +200,7 @@ class FacilityController extends Controller
 			{	
 				$data = ['id' => $id];
 				// $headers = [
-				//     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+				//     'x-api-key' => '',
 				//   ];
 		  
 				  $client = new Client(); //GuzzleHttp\Client
@@ -254,7 +254,7 @@ class FacilityController extends Controller
 		{
 			 $request=json_decode($request['data']);
 			//  $headers = [
-			//     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+			//     'x-api-key' => '',
 			//   ];
 			  $data = [
 				'hotel_id' => $request->hotel_id   
@@ -315,7 +315,7 @@ class FacilityController extends Controller
 			{
 			   $request=json_decode($request['data']);
 			  //  $headers = [
-			  //     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+			  //     'x-api-key' => '',
 			  //   ];
 				$data = [
 				  'hotel_id' => $request->hotel_id,
@@ -379,7 +379,7 @@ class FacilityController extends Controller
 			{
 			  //  dd($request);
 			  //  $headers = [
-			  //     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+			  //     'x-api-key' => '',
 			  //   ];
 				$data = [
 				  'hotel_id' => $request->hotel_id,
@@ -443,7 +443,7 @@ class FacilityController extends Controller
 			{
 				 $request=json_decode($request['data']);
 				//  $headers = [
-				//     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+				//     'x-api-key' => '',
 				//   ];
 				  $data = [
 					'hotel_id' => $request->hotel_id   

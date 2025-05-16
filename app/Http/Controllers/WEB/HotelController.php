@@ -53,7 +53,7 @@ class HotelController extends Controller
 				$id = session('id');
 				// dd($id);
 				// $headers = [
-				//   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+				//   'x-api-key' => '',
 				// ];
 				 if(strtolower($role) == 'admin'){
 				  $url = '/hotel/get_hotel_all';
@@ -113,7 +113,7 @@ class HotelController extends Controller
             $id = session('id');
             // dd($role);
             // $headers = [
-            //   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+            //   'x-api-key' => '',
             // ];
             if(strtolower($role) == 'admin'){
               $url = '/hotel/get_hotel_all';
@@ -157,7 +157,7 @@ class HotelController extends Controller
 
     public function add_hotel(){
       // $headers = [
-      //   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+      //   'x-api-key' => '',
       //   ];
 
         // Get URL google-maps ke tabel M_System
@@ -413,7 +413,7 @@ class HotelController extends Controller
                 'mice_wa' => $request->post('txtMiceWA'),    
              ];
             //  $headers = [
-            //     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+            //     'x-api-key' => '',
             //   ];
     
               $client = new Client(); //GuzzleHttp\Client
@@ -552,7 +552,7 @@ class HotelController extends Controller
              ];
             //  dd($data);
             //  $headers = [
-            //     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+            //     'x-api-key' => '',
             //   ];
     
               $client = new Client(); //GuzzleHttp\Client
@@ -599,7 +599,7 @@ class HotelController extends Controller
     public function add_user_hotel(Request $request)
 	{
       // $headers = [
-      //   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+      //   'x-api-key' => '',
       // ];
 	  if (session()->get('role')=='Admin' || Auth::user()->permission('hotel-user-add'))
 	  {
@@ -713,7 +713,7 @@ public function get_edit_images(Request $request)
 						  ->with('error',$validator->errors()->first());
 						 }
 		  // $headers = [
-		  //   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+		  //   'x-api-key' => '',
 		  // ];
 		  $client = new Client(); //GuzzleHttp\Client
 		  if(empty($request['images'])){
@@ -830,7 +830,7 @@ public function get_edit_images(Request $request)
 			// dd($id);
 			$data = ['id' => $id];
 			// $headers = [
-			//     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+			//     'x-api-key' => '',
 			//   ];
 			  // Get URL google-maps ke tabel M_System
 			$client = new Client(); //GuzzleHttp\Client
@@ -916,7 +916,7 @@ public function get_edit_images(Request $request)
 		try
 		{
 		  // $headers = [
-		  //     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+		  //     'x-api-key' => '',
 		  // ];
 		  
 		  $client = new Client(); //GuzzleHttp\Client
@@ -1025,7 +1025,7 @@ public function get_edit_images(Request $request)
       try{
       $data = ['id' => $id];
       // $headers = [
-      //     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+      //     'x-api-key' => '',
       //   ];
 
         $client = new Client(); //GuzzleHttp\Client

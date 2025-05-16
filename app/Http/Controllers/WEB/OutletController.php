@@ -126,7 +126,7 @@ class OutletController extends Controller
             $id = session('id');
             // dd($role);
             // $headers = [
-            //   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+            //   'x-api-key' => '',
             // ];
             if(strtolower($role) == 'admin'){
               $url = '/outlet/get_outlet_all';
@@ -200,7 +200,7 @@ class OutletController extends Controller
         try{
           $name = session('full_name');
           // $headers = [
-          //   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+          //   'x-api-key' => '',
           // ];
           $client = new Client(); //GuzzleHttp\Client
           $response_outlet = $client->request('GET', url('api').'/outlet/get_hotel_outlet?hotel_id='.$request->hotel_id,[
@@ -356,7 +356,7 @@ class OutletController extends Controller
       try{
         $name = session('full_name');
         // $headers = [
-        //   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+        //   'x-api-key' => '',
         // ];
         $client = new Client(); //GuzzleHttp\Client
         $response_outlet = $client->request('GET', url('api').'/hotel/get_hotel_id?id='.$request->id,[

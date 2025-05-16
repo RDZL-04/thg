@@ -91,7 +91,7 @@ class MsystemController extends Controller
             {
                 $name = session('full_name');
                 // $headers = [
-                //   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+                //   'x-api-key' => '',
                 // ];
         
                 $client = new Client(); //GuzzleHttp\Client
@@ -138,7 +138,7 @@ class MsystemController extends Controller
             if(Auth::user()->permission('utility'))
             {
                 // $headers = [
-                //     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+                //     'x-api-key' => '',
                 // ];
                 // $file               = $request['system_img'];
                 // dd($request->system_img);
@@ -278,7 +278,7 @@ class MsystemController extends Controller
             if(Auth::user()->permission('utility'))
             {
                 // $headers = [
-                //     'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+                //     'x-api-key' => '',
                 // ];
                 
                 $client = new Client(); //GuzzleHttp\Client
@@ -388,7 +388,7 @@ class MsystemController extends Controller
                     //loop total data
                     foreach($data as $key) {
                         // $headers = [
-                        //         'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+                        //         'x-api-key' => '',
                         //     ];
                             
                             $client = new Client(); //GuzzleHttp\Client
@@ -521,7 +521,7 @@ class MsystemController extends Controller
             
                 $name = session('full_name');
                 // $headers = [
-                //   'x-api-key' => 'c20ad4d76fe97759aa27a0c99bff6710',
+                //   'x-api-key' => '',
                 // ];
         
                 $client = new Client(); //GuzzleHttp\Client
